@@ -2,5 +2,5 @@ Bunn Resolusi
 - Konsisten belajar coding
 - Mengerti Materi git
 - Meningkatkan skill coding
-- Meningkatkan skill gambar
 - Membuka jasa komisi gambar
+- Hosting Web
